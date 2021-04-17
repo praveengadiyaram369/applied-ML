@@ -1,0 +1,4 @@
+1) conda create --name appliedML python=3.7.6
+2) conda activate appliedML
+3) conda install jupyter matplotlib numpy pandas seaborn scikit-learn
+4) 
